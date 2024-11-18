@@ -21,8 +21,10 @@ $light-grayish-blue: hsl(210, 46%, 95%);
 body {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 1rem;
-  margin: 3rem 0;
+  min-height:100vh;
+  margin: 2rem 0;
   background-color: $light-grayish-blue;
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: clamp(0.8125rem, 0.8125rem + 0.5vw, 1rem);
