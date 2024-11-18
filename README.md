@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-section-bz1VGxN7wk)
 - Live Site URL: [Live Site](https://taresta.github.io/Testimonial-Grid-Section/)
 
 ## My process
